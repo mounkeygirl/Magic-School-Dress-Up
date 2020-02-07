@@ -269,11 +269,12 @@ namespace Test003
             //if there is a minigame loaded here that hasn't been run, play that now
             else if (thisMinigame != null && thisMinigame.Won==false)
             {
-                PlayLoadingScreen = true;
+                //PlayLoadingScreen = true;
+
                 //the outcome of the minigame will update the Won paramater.
                 thisMinigame.start();
 
-                PlayLoadingScreen = false;
+                //PlayLoadingScreen = false;
 
                 if (thisMinigame.Won == false)
                 {

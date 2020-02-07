@@ -57,3 +57,15 @@ C:\Users\Owner\Desktop\Carlson_Burress_Rotich_FinalSubmission\Test003\Test003\Te
 C:\Users\Owner\Desktop\Carlson_Burress_Rotich_FinalSubmission\Test003\Test003\Test003\obj\Debug\Test003.csproj.GenerateResource.cache
 C:\Users\Owner\Desktop\Carlson_Burress_Rotich_FinalSubmission\Test003\Test003\Test003\obj\Debug\Test003.exe
 C:\Users\Owner\Desktop\Carlson_Burress_Rotich_FinalSubmission\Test003\Test003\Test003\obj\Debug\Test003.pdb
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\bin\Debug\Test003.exe.config
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\bin\Debug\Test003.exe
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\bin\Debug\Test003.pdb
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.DressUpContest.resources
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.Form1.resources
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.Map.resources
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.Properties.Resources.resources
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.StartPage.resources
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.exe
+C:\Users\Owner\Desktop\MagicSchoolDressUp\Magic-School-Dress-Up\Test003\Test003\Test003\obj\Debug\Test003.pdb
